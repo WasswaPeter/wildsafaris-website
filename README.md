@@ -1,2 +1,2 @@
-# WasswaPeter.wildsafaris-website
+# wasswapeter.wildsafaris-website
 This is the wild safaris website page interface
